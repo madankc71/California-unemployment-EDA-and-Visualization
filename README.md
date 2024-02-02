@@ -23,3 +23,5 @@
 **Line Chart:** Trends in state-wise unemployment rates over time.
 
 **Tableau Public Link:** For a detailed view of the visualizations, visit: https://public.tableau.com/app/profile/madan.k.c/viz/Californiaunemploymentinsight/CaliforniaUnemployment.
+
+** Data Source: ** https://catalog.data.gov/dataset/local-area-unemployment-statistics-laus-annual-average
